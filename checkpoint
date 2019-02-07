@@ -1,0 +1,6 @@
+model_checkpoint_path: "model19_0.955"
+all_model_checkpoint_paths: "model15_0.955"
+all_model_checkpoint_paths: "model16_0.957"
+all_model_checkpoint_paths: "model17_0.952"
+all_model_checkpoint_paths: "model18_0.951"
+all_model_checkpoint_paths: "model19_0.955"

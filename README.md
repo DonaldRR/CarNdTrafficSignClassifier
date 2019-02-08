@@ -2,8 +2,10 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ### Overview
----
+
 In this project, it uses dataset of [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) and builds a classifier to classify 43 different kinds of traffic signs. Finally, the approach posted achieves **97.2%** accuracy on test set.
+
+---
 
 ### Environment and Dependency
 
